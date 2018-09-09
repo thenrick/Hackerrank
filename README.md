@@ -1,2 +1,2 @@
-# Hackerranl
-Hackerrand Solutions
+# Hackerrank
+Hackerrank Solutions
